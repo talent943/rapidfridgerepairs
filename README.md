@@ -6,3 +6,6 @@
   ### https://ubuverse.com/deploying-a-static-website-to-cloudflare-pages/
 
   ## Deploying a Static Website with a Contact Form to Cloudflare Pages for Free
+
+  ## Static Contact Form Functionality
+  ### https://www.staticforms.xyz/
